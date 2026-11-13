@@ -1,0 +1,8 @@
+{
+  "name": "d-topmould-static",
+  "version": "1.0.0",
+  "description": "D-TOP MOLD static site (mirror of d-topmould.com)",
+  "scripts": {
+    "build": "echo 'Static site, no build step needed'"
+  }
+}
